@@ -1,1 +1,1 @@
-# Pr-ctica-EOD
+# Ejercicios prácticos
